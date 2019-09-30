@@ -9,6 +9,6 @@ public class Hello {
     }
 
     public void print(){
-        System.out.println("你也好");
+        System.out.println("你也好aaaaaaaaaa");
     }
 }
